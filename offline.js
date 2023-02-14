@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1669703751,
+	"version": 1676344792,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -33,6 +33,10 @@
 		"images/tiledbackground.png",
 		"images/sarabun-sheet0.png",
 		"images/sprite2-sheet0.png",
+		"media/sonic-ring-sound.m4a",
+		"media/sonic-ring-sound.ogg",
+		"media/falling.ogg",
+		"media/gameoverguitar-online-audio-converter.ogg",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
