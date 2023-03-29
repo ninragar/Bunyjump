@@ -10,7 +10,6 @@ __Project 2D Web Game Development With Construct 2__
 >* The results obtained in the preparation of this project are: Gain skills and knowledge about developing online two-dimensional computer games with the program Construct 2 and get guidelines for improving and further developing online two-dimensional games with the program Construct 2 to be more efficient. For students in computer games and animation including those who are interested, the ability to use online two-dimensional computer games with the program Construct 2 will be applied to teaching and learning. Or develop other games on line with the Construct 2
 #### Submitted By 
 >* Phra Yossapon Arwtrakool ID 64309050004
->* Phra Maha Wittaya WiseatNakon ID 64309050008
 >* Advisor Mr.Jhaturonn Kittikamonphan
 ***
  Organization Department of Computer Games and Animation
