@@ -18,3 +18,4 @@ __Project 2D Web Game Development With Construct 2__
 [Begin Game](https://ninragar.github.io/Bunyjump/)
 ```bash
 *Keep You Score On MySQL : Plest Enter On Game Over Scene
+*Keyboard Only
